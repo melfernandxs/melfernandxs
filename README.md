@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go;
 - 💞️ I’m looking to collaborate on Software Quality Assurance projects and testing activities!
 - 📫 How to reach me:
-  - Linkedin > https://www.linkedin.com/in/melissa-fernandes-226b76171/
+  - Linkedin: https://www.linkedin.com/in/melissa-fernandes-226b76171/
   - E-mail: melissafernandes26@hotmail.com
 
 <!---
